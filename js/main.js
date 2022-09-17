@@ -32,7 +32,12 @@ let createButtonGroup = parent => {
     let btnInfo = document.createElement("button");
     btnInfo.className = "btn btn-success";
     btnInfo.innerHTML = '<i class="fa fa-check" aria-hidden="true"></i>';
-   // btnInfo.addEventListener("click", changeColor);
+    
+    $(document).ready(function(){
+        $(".btn-success").click(function(){
+            $(this).parents("tr").toggleClass("alert alert-success");
+         });
+    });
 
     let td = document.createElement("td");
     td.appendChild(group);
@@ -85,5 +90,4 @@ $(document).ready(function(){
            console.log(data);
         }); 
      });
-
  }); 
