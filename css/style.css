@@ -1,0 +1,15 @@
+h3{
+   text-align: center; 
+   margin: 20px;
+}
+#userTable{
+    box-shadow: 1px 1px 10px 5px;
+}
+
+.input-group{
+    margin: 5px;
+}
+
+#button-addon2:hover{
+    background-color: rgb(38, 215, 221);
+}
