@@ -53,7 +53,7 @@ function tableData() {
         let tr = document.createElement("tr");
         createTD(title.film[i].id, tr);
         createTD(title.film[i].title, tr);
-        createTD(title.film[i].saw, tr);
+        createTD(title.film[i].seen, tr);
         createButtonGroup(tr);
         tableBody.appendChild(tr);
     }
@@ -95,7 +95,7 @@ $(document).ready(function () {
         let inputData = {
             id: length + 1,
             title: $("input").val(),
-            saw: ""
+            seen: ""
         };
 
         if (isNaN(length)) {
@@ -131,7 +131,7 @@ function selectRow() {
             let data = {
                 id: currentRow.find("td:eq(0)").text(),
                 title: currentRow.find("td:eq(1)").text(),
-                saw: currentRow.find("td:eq(2)").innerHTML = '<i class="fa fa-check-circle-o" aria-hidden="true"></i>',
+                seen: currentRow.find("td:eq(2)").innerHTML = '<i class="fa fa-check-circle-o" aria-hidden="true"></i>',
             };
             let fetchOptions = {
                 method: "PUT",
