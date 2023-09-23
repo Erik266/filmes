@@ -12,191 +12,106 @@
     },
     {
       "id": "3",
-      "title": "Armageddon",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "4",
-      "title": "Utolsó mohikán",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "5",
-      "title": "Hajnali mentőakció",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "6",
       "title": "Dead Man",
       "saw": ""
     },
     {
-      "id": "7",
+      "id": "4",
       "title": "Public Enemies",
       "saw": ""
     },
     {
-      "id": "8",
+      "id": "5",
       "title": "New Kids Turbo",
       "saw": ""
     },
     {
-      "id": "9",
+      "id": "6",
       "title": "Legendás állatok",
       "saw": ""
     },
     {
-      "id": "10",
+      "id": "7",
       "title": "Remény rabjai",
       "saw": ""
     },
     {
-      "id": "11",
+      "id": "8",
       "title": "Tökéletes trükk",
       "saw": ""
     },
     {
-      "id": "12",
+      "id": "9",
       "title": "Prey",
       "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
     },
     {
-      "id": "13",
+      "id": "10",
       "title": "A Grand Budapest hotel",
       "saw": " "
     },
     {
-      "id": "14",
+      "id": "11",
       "title": "Halál a níluson",
       "saw": " "
     },
     {
-      "id": "15",
+      "id": "12",
       "title": "Rezervátum kutyái",
       "saw": " "
     },
     {
-      "id": "16",
+      "id": "13",
       "title": "The Leftovers",
       "saw": " "
     },
     {
-      "id": "17",
-      "title": "Ivócimborák",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "18",
-      "title": "Fülledt utcák",
-      "saw": " "
-    },
-    {
-      "id": "19",
-      "title": "A kék szoba",
-      "saw": " "
-    },
-    {
-      "id": "20",
-      "title": "Swimming pool",
-      "saw": " "
-    },
-    {
-      "id": "21",
-      "title": "Bakelit",
-      "saw": " "
-    },
-    {
-      "id": "22",
-      "title": "Eiffel",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "23",
-      "title": "Visszajáró pénz",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "24",
+      "id": "14",
       "title": "Yellowstone",
       "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
     },
     {
-      "id": "25",
+      "id": "15",
       "title": "Alice in borderlands",
       "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
     },
     {
-      "id": "26",
+      "id": "16",
       "title": "28 nappal később",
       "saw": ""
     },
     {
-      "id": "27",
+      "id": "17",
       "title": "Gilbert Grape",
       "saw": ""
     },
     {
-      "id": "28",
-      "title": "First Love (Netflix)",
-      "saw": " "
-    },
-    {
-      "id": "29",
+      "id": "18",
       "title": "A kötéltánc",
       "saw": " "
     },
     {
-      "id": "30",
+      "id": "19",
       "title": "Blue Mountain State",
       "saw": " "
     },
     {
-      "id": "31",
+      "id": "20",
       "title": "Fury",
       "saw": " "
     },
     {
-      "id": "32",
-      "title": "Tell me you love me",
-      "saw": " "
-    },
-    {
-      "id": "33",
-      "title": "Kaliforniai rémálom",
-      "saw": " "
-    },
-    {
-      "id": "34",
-      "title": "A fiúk nem sírnak",
-      "saw": " "
-    },
-    {
-      "id": "35",
-      "title": "A neon démon",
-      "saw": " "
-    },
-    {
-      "id": "36",
-      "title": "A nyelvtanárnő",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "37",
-      "title": "A tenger vadjai 2. - A zátony",
-      "saw": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i>"
-    },
-    {
-      "id": "38",
+      "id": "21",
       "title": "Másvilág",
       "saw": " "
     },
     {
-      "id": "39",
+      "id": "22",
       "title": "Venom",
       "saw": " "
     },
     {
-      "id": "40",
+      "id": "23",
       "title": "Silo",
       "saw": " "
     }
