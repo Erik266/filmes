@@ -10,7 +10,7 @@ let fetchInit = {
 };
 
 
-let url = "http://localhost:3000/film";
+let url = "/film";
 
 async function fetchData() {
     let response = await fetch(url, fetchInit);
